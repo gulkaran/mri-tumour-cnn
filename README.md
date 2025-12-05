@@ -2,15 +2,15 @@
 
 Classifying brain tumors (Glioma, Meningioma, Pituitary, or No Tumour) from MRI scans using a custom PyTorch CNN.
 
+## Demo Video
+
+[![Demo Video](https://img.youtube.com/vi/Y5UoI4bWTFo/maxresdefault.jpg)](https://youtu.be/Y5UoI4bWTFo)
+
 ## Model Performance
 
 ![Training History](./public/images/training-history.png)
 
 ![Confusion Matrix](./public/images/confusion-matrix.png)
-
-## Demo
-
-[Demo Video](https://youtu.be/Y5UoI4bWTFo)
 
 ## Quick Start
 
